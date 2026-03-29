@@ -1,8 +1,8 @@
 {
-	"name": "com.nnra6864.easings",
+	"name": "com.nnra6864.unity-easings",
 	"version": "1.0.0",
-	"displayName": "Easings",
-	"description": "Collection of easing functions",
+	"displayName": "Unity Easings",
+	"description": "Collection of easing functions for Unity",
 	"keywords": [
 		"nn",
 		"easing",
